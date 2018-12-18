@@ -1,13 +1,13 @@
 {
-  "main.css": "/pc-digg/static/css/main.c68fc9f5.chunk.css",
-  "main.js": "/pc-digg/static/js/main.dddb8ea8.chunk.js",
-  "main.js.map": "/pc-digg/static/js/main.dddb8ea8.chunk.js.map",
-  "static/js/1.4d4949a9.chunk.js": "/pc-digg/static/js/1.4d4949a9.chunk.js",
-  "static/js/1.4d4949a9.chunk.js.map": "/pc-digg/static/js/1.4d4949a9.chunk.js.map",
-  "runtime~main.js": "/pc-digg/static/js/runtime~main.b015688d.js",
-  "runtime~main.js.map": "/pc-digg/static/js/runtime~main.b015688d.js.map",
-  "static/css/main.c68fc9f5.chunk.css.map": "/pc-digg/static/css/main.c68fc9f5.chunk.css.map",
-  "index.html": "/pc-digg/index.html",
-  "precache-manifest.3f8d6d0a59a07231f381e0b1eefe60b9.js": "/pc-digg/precache-manifest.3f8d6d0a59a07231f381e0b1eefe60b9.js",
-  "service-worker.js": "/pc-digg/service-worker.js"
+  "main.css": "/static/css/main.c68fc9f5.chunk.css",
+  "main.js": "/static/js/main.49504390.chunk.js",
+  "main.js.map": "/static/js/main.49504390.chunk.js.map",
+  "static/js/1.4d4949a9.chunk.js": "/static/js/1.4d4949a9.chunk.js",
+  "static/js/1.4d4949a9.chunk.js.map": "/static/js/1.4d4949a9.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.c68fc9f5.chunk.css.map": "/static/css/main.c68fc9f5.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.a4c25df792b6eca7efff768c183fc031.js": "/precache-manifest.a4c25df792b6eca7efff768c183fc031.js",
+  "service-worker.js": "/service-worker.js"
 }
